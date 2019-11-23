@@ -14,7 +14,7 @@ const session = require("express-session");
 //                          MongoDB Config
 // ---------------------------------------------------------------- //
 
-const mongoURI = "mongodb://localhost:27017/wedding";
+const mongoURI = process.env.MONGODB_URI;
 const db = mongoose.connection;
 
 // Connect to Mongo
