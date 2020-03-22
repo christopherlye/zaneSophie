@@ -1,7 +1,7 @@
 <h1 align="center">Zane &amp; Sophie ©</h1>
 <p align="center">Zane &amp; Sophie © : A wedding RSVP prototype using ejs as a templating tool</p>
 <br>
-<p align="center"><img src="https://github.com/christopherlye/snakeSnack/blob/master/images/github.io%20banner%20pic.png" alt="Zane &amp; Sophie ©" width="100%"></p>
+<p align="center"><a href="http://zane-sophie.herokuapp.com/"><img src="https://github.com/christopherlye/snakeSnack/blob/master/images/github.io%20banner%20pic.png" alt="Zane &amp; Sophie ©" width="100%"></a></p>
 
 ---
 
@@ -58,25 +58,31 @@ These are the installation steps if you would like to view the project locally:
 <details>
 <summary>Running Locally:</summary>
 
-Step 1: Install npm dependencies
+Step 1: Clone the repository
+
+```
+git clone https://github.com/christopherlye/caroushare.git
+```
+
+Step 2: Install npm dependencies
 
 ```
 npm i
 ```
 
-Step 2: Run mongod server in terminal
+Step 3: Run mongod server in terminal
 
 ```
 mongod
 ```
 
-Step 3: Start nodemon
+Step 4: Start nodemon
 
 ```
 nodemon server.js
 ```
 
-Step 4: Open up a browser tab and go to http://localhost:3300/
+Step 5: Open up a browser tab and go to http://localhost:3300/
 
 </details>
 
