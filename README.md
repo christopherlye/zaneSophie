@@ -63,7 +63,7 @@ These are the installation steps if you would like to view the project locally:
 Step 1: Clone the repository
 
 ```
-git clone https://github.com/christopherlye/caroushare.git
+git clone https://github.com/christopherlye/zaneSophie.git
 ```
 
 Step 2: Install npm dependencies
