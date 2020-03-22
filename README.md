@@ -1,7 +1,7 @@
 <h1 align="center">Zane &amp; Sophie ©</h1>
 <p align="center">Zane &amp; Sophie © : A wedding RSVP prototype using ejs as a templating tool</p>
 <br>
-<p align="center"><img src="https://github.com/christopherlye/snakeSnack/blob/master/images/github.io%20banner%20pic.png" alt="Zane &amp; Sophie ©" width="70%"></p>
+<p align="center"><img src="https://github.com/christopherlye/snakeSnack/blob/master/images/github.io%20banner%20pic.png" alt="Zane &amp; Sophie ©" width="100%"></p>
 
 ---
 
