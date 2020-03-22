@@ -7,11 +7,11 @@
 
 ## Inspiration
 
-<p align="justify">In view of my upcoming wedding, I decided to work on something that could possibly help reduce the workload of the preparation. Even though there are many wedding RSVP websites out in the market, I thought it would be a good idea to work on it still, to go through the though-process of planning out how a wedding RSVP app should be.</p>
+<p align="justify">I thought it would be a good opportunity to challenge myself to go through the thought process of planning out how a wedding RSVP app should be, as it requires me to apply the MVC framework. In view of my upcoming wedding, I decided to work on something that I have been actively thinking about - even though there are many wedding RSVP websites in the market, I wanted something that I could customise further to my needs. </p>
 
 <p align="justify">Having picked up ejs as a templating tool for creating dynamic websites, I decided to use it for this project as well.</p>
 
-<p align="justify">As you would have guessed, Zane and Sophie are fictional characters to simulate how my desired wedding RSVP app would look and feel like. Enjoy! 💍</p>
+<p align="justify">As you would have guessed, Zane and Sophie are fictional characters used to simulate how my desired wedding RSVP app would look and feel like. Enjoy! 💍</p>
 
 ---
 
@@ -36,6 +36,8 @@ In summary:
      - rsvp: the guests who have already RSVP-ed
      - sessions: website sessions to restrict views
      - users: lists users of the website
+   - Controller
+      - CRUD functions for attendees, groups, reminders, sessions, users
 3. Style the website
    - Determined kind of fonts. Chose font size
    - Font colours, placement, etc
